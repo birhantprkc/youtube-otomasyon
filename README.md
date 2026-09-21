@@ -37,13 +37,13 @@ dosyasi. Sonra paneli acar. (Windows 10 1809+ / Windows 11 gerekir — winget
 oradan itibaren hazir geliyor.)
 
 ```bash
-git clone https://github.com/efecim1snn/youtube-otomasyon.git
+git clone https://github.com/MoneyPrintLabs/youtube-otomasyon.git
 ```
 
 **Mac / Linux:**
 
 ```bash
-git clone https://github.com/efecim1snn/youtube-otomasyon.git
+git clone https://github.com/MoneyPrintLabs/youtube-otomasyon.git
 cd youtube-otomasyon
 npm install
 node panel.js
